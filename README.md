@@ -14,9 +14,9 @@ The main object to this assignment is to have us create javascripts that would:
 
 ## Screenshot Example
 
-![Screenshot1]((https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/StartPage.png)
-![Screenshot2]((https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/QuestionPage.png)
-![Screenshot3]((https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/ScorePage.png)
+![Screenshot1](https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/StartPage.png)
+![Screenshot2](https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/QuestionPage.png)
+![Screenshot3](https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/ScorePage.png)
 
 
 ## Github repository

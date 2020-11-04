@@ -14,28 +14,9 @@ The main object to this assignment is to have us create javascripts that would:
 
 ## Screenshot Example
 
-![Screenshot1](https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/StartPage.png)
-![Screenshot2](https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/QuestionPage.png)
-![Screenshot3](https://github.com/robertsantos-dfw/04-Homework/tree/main/Assets/ScorePage.png)
-## Homework assignment #4 - Web APIs: Code Quiz
-
-## Task
-
-We were tasked to to create a quiz where correct and incorrect answers would buy or take away time from the quiz. The final time would be your score based on how much time you had left.
-
-The main object to this assignment is to have us create javascripts that would: 
-
-* Make questions and answer arrays
-* Generate for each loops.
-* Use local storage to store past scores.
-* a timer function that will be used for highscore.
-
-
-## Screenshot Example
-
 ![Screenshot1](assets/startPage.PNG)
 ![Screenshot2](Assets/QuestionPage.png)
-![Screenshot3](Assets/ScorePage.png)
+![Screenshot3](Assets/ScorePage.PNG)
 
 ## Github repository
 https://robertsantos-dfw.github.io/04-Homework/.

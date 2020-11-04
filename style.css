@@ -1,5 +1,5 @@
 body {
-    font-family: "Architects Daughter", cursive;
+    font-family: "Helvetica", cursive;
     font-size: 150%;
   }
   .wrapper {
@@ -50,7 +50,7 @@ body {
     display: inline-block;
     margin: 5px;
     cursor: pointer;
-    font-family: "Architects Daughter", cursive;
+    font-family: "Helvetica", cursive;
     font-size: 100%;
     background-color: teal;
     border-radius: 5px;

@@ -14,7 +14,7 @@ The main object to this assignment is to have us create javascripts that would:
 
 ## Screenshot Example
 
-![Screenshot1](assets/StartPage.PNG)
+![Screenshot1](Assets/StartPage.PNG)
 ![Screenshot2](Assets/QuestionPage.png)
 ![Screenshot3](Assets/ScorePage.PNG)
 
